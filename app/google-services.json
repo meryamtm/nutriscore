@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "772332438709",
+    "project_id": "nutri-score-e071e",
+    "storage_bucket": "nutri-score-e071e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:772332438709:android:adab39d61f2fe078b92afc",
+        "android_client_info": {
+          "package_name": "com.example.nutriscore"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBsb1TwlWiJtzhlNeZqF-70adzCFpEXddg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
