@@ -6,7 +6,7 @@ import android.widget.Toast
 import androidx.appcompat.app.AppCompatActivity
 import com.example.nutriscore.databinding.ActivityLoginBinding
 import com.google.firebase.auth.FirebaseAuth
-
+import com.example.nutriscore.MainActivity
 class LoginActivity : AppCompatActivity() {
     private val auth = FirebaseAuth.getInstance()
     private lateinit var binding: ActivityLoginBinding
